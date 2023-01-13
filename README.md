@@ -1,7 +1,7 @@
 # education-and-cv
 
 Name: [BRIAN FISHERS]
-Contact Information: [Email:toxicking2659@gmail.com ,Phone Number;0728756236]
+Contact Information: [Email:toxicking2659@gmail.com ,Phone Number;0728756236 OR WHATSAPP 0715133221]
 
 Education:
 
