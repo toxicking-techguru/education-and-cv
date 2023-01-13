@@ -156,7 +156,8 @@ sample SS of the projects.
 ![image](https://user-images.githubusercontent.com/73772907/212279352-3b696af7-d16b-4106-9e69-c27b6ce5a50f.png)
 
 
-![image](https://user-images.githubusercontent.com/73772907/212279479-7803fa63-68c5-4942-8a06-ac36f75d79fa.png)
+![image](https://user-images.githubusercontent.com/73772907/212286402-71b0cbf4-5096-498d-96e2-53d125db06fc.png)
+
 
 #SAMPLE OF THOSE IN DOCUMENTS FOLDER
 ![image](https://user-images.githubusercontent.com/73772907/212279813-2dbdf1da-6ba3-4bee-b0da-c3fd61df9a90.png)
