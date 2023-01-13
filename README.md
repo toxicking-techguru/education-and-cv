@@ -130,7 +130,7 @@ Adobe Photoshop, Adobe Illustrator, Zeplin, }]}]
 
 Projects:
 
-   all projects are in below repositories.
+   some projects are in below repositories more to be added.
    
    https://github.com/toxicking-techguru?tab=repositories
 
