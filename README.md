@@ -13,12 +13,10 @@ Education:
 Work Experience:
 
     Job Title;  mpesa intagration formaly known as stk push at the shield organisation.
-        Responsibilities: [List the responsibilities you had in this role, including any relevant projects you worked on]
-        Skills: [List any skills you gained from this role that are relevant to the job you're applying for]
+        Responsibilities: [juniour developer]
+        Skills: [i learned the skills listed below]
 
-    [], [Company Name], [Dates of Employment]
-        Responsibilities: [List the responsibilities you had in this role, including any relevant projects you worked on]
-        Skills: [List any skills you gained from this role that are relevant to the job you're applying for]
+   
 
 Skills:
 
