@@ -23,16 +23,27 @@ Skills:
     Strong mathematical and computer science background
     Proficient in programming languages: [Java, PHP, Ruby, C#, C / C++, SQL, PL/SQL, ASP .NET, Objective-C, Visual Basic,python and R]
     Experience with the following  tools, technologies and methodologies ::{{Technologies, libraries and frameworks:
+    
 Java:JEE, Spring, Spring Boot, JPA, Hibernate, Swing, JSF, Apache Wicket,  JXL, Oracle Portal.
+
+
 PHP:CodeIgniter, Laravel, WordPress, Drupal and  Magento.
+
+
 C#:Microsoft Visual Studio, Entity Framework, ASP Web API, WinForms, ASP.NET, Visual Basic
 Ruby:Rails,
+
 C++:Windows API
+
 UI and Web development frameworks:Angular,, React, VueJS,Ajax and JavaScript:NodeJS, JQuery, JSON, MooTools, ASP.NET Ajax control Toolkit, and Dojo.
 Web technologies:Bootstrap, Typescript, XHTML, HTML5, XML, XPath, XQuery, S, DOM, , TinyMCE, JW Player, Highcharts, amCharts, Modernizr, Oauth2 security, Omniauth security
+
 Mobile:React Native, iPhone SDK , Android SDK .
+
 BI:Tableau, Crystal Reports
+
 Web Services:REST API, Apache CXF, Axis and  SOAP.
+
 Messaging Middleware:Apache Kafka , IBM MQ Series
 
 IDE:
