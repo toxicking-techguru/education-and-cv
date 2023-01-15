@@ -37,7 +37,7 @@ C++:Windows API
 
 UI and Web development frameworks:Angular,, React, VueJS,Ajax and JavaScript:(NodeJS, JQuery, JSON, MooTools, ASP.NET Ajax control Toolkit, and Dojo).
 
-Web technologies:Bootstrap, Typescript, XHTML, HTML5, XML, XPath, XQuery, S, DOM, , TinyMCE, JW Player, Highcharts, amCharts, Modernizr, Oauth2 security, Omniauth security
+Web technologies:Bootstrap, Typescript, XHTML, HTML5, XML, XPath, DOM, , TinyMCE, JW Player, Highcharts, amCharts, Modernizr, Oauth2 security
 
 Mobile:React Native, iPhone SDK , Android SDK .
 
