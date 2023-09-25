@@ -12,7 +12,7 @@ Education:
 
 Work Experience:
 
-    Job Title;  mpesa intagration formaly known as stk push at the shield organisation.
+    Job Title;  build several systems at inspire hub technologies and vintex technologies at LTD at machakos.
         Responsibilities: [juniour developer]
         Skills: [i learned the skills listed below]
 
